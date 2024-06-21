@@ -16,13 +16,19 @@ This is a Capstone Project presentation based on the outcomes of all tasks in pr
 
 ### Summary of methodologies 
 Data Collection: API / Web Scraping
+
 Data Wrangling.
+
 Exploratory Data Analysis (EDA): SQL / Data Visualization.
+
 Interactive Visual Analytics with Folium / Plotly Dash Dashboard.
+
 Predictive analysis using classification models.
 
 
 ### Summary of all results
 Exploratory Data Analysis (EDA) results
+
 Interactive analytics in screenshots
+
 Predictive Analytics result
